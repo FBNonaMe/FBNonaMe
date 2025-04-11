@@ -30,5 +30,5 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=FBNonaMe&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
-[![](https://raw.githubusercontent.com/FBNonaMe/github-profile-summary-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/FBNonaMe)
+
 
